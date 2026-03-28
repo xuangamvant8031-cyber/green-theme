@@ -45,10 +45,5 @@
     "typescript": "5.8.3",
     "wrangler": "^4.47.0"
   }
-},
-"scripts": {
-  "build": "next build",
-  "start": "next start -p $PORT"
-},
-"start": "next start -p 10000"
+}
 
